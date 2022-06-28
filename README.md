@@ -1,8 +1,8 @@
-# Socket TCP
+# ST7789 - v1
 
 
 Alumno: Romero Celso Esteban
 
-Curso: 7° 1° Avc
+Curso: 7 1 Avc
 
-Materia: Redes y Protocolos
+Materia: Representacion Visual y Frontal de Datos
